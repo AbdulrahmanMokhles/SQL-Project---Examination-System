@@ -1,0 +1,118 @@
+<mxfile host="app.diagrams.net" modified="2024-01-02T02:09:08.184Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="-PLAn_nEd8h2eh4j3aHg" version="22.1.16" type="device">
+  <diagram name="Page-1" id="BnuFFYTNViJ3J50L2Fqc">
+    <mxGraphModel dx="819" dy="446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="UDdRm1SqhOeg5-SXjAC0-1" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Verdana&quot;&gt;Student&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="260" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="UDdRm1SqhOeg5-SXjAC0-2" value="&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Verdana&quot;&gt;&lt;u&gt;ID&lt;/u&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="217.5" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="UDdRm1SqhOeg5-SXjAC0-3" value="&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Verdana&quot;&gt;Name&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="217.5" width="50" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="UDdRm1SqhOeg5-SXjAC0-4" value="&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Verdana&quot;&gt;UserName&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="271.5" width="80" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="UDdRm1SqhOeg5-SXjAC0-5" value="&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Verdana&quot;&gt;Password&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="300" width="70" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="UDdRm1SqhOeg5-SXjAC0-7" value="&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Verdana&quot;&gt;Address&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="320" width="60" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="UDdRm1SqhOeg5-SXjAC0-8" value="&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Verdana&quot;&gt;Phone&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="242.5" width="50" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="UDdRm1SqhOeg5-SXjAC0-9" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Verdana&quot;&gt;Instructor&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="82.5" width="80" height="37.5" as="geometry" />
+        </mxCell>
+        <mxCell id="UDdRm1SqhOeg5-SXjAC0-10" value="&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Verdana&quot;&gt;&lt;u&gt;ID&lt;/u&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="40" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="UDdRm1SqhOeg5-SXjAC0-11" value="&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Verdana&quot;&gt;Name&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="40" width="50" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="UDdRm1SqhOeg5-SXjAC0-12" value="&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Verdana&quot;&gt;UserName&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="94" width="80" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="UDdRm1SqhOeg5-SXjAC0-13" value="&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Verdana&quot;&gt;Password&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="122.5" width="70" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="UDdRm1SqhOeg5-SXjAC0-15" value="&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Verdana&quot;&gt;Address&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="147.5" width="60" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="UDdRm1SqhOeg5-SXjAC0-16" value="&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Verdana&quot;&gt;Phone&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="65" width="50" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="UDdRm1SqhOeg5-SXjAC0-17" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Verdana&quot;&gt;Course&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="255.25" width="80" height="32.5" as="geometry" />
+        </mxCell>
+        <mxCell id="UDdRm1SqhOeg5-SXjAC0-18" value="&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Verdana&quot;&gt;MaxDegree&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="433" y="230.25" width="80" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="UDdRm1SqhOeg5-SXjAC0-19" value="&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Verdana&quot;&gt;&lt;u&gt;ID&lt;/u&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="225.25" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="UDdRm1SqhOeg5-SXjAC0-20" value="&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Verdana&quot;&gt;Name&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="304.75" width="50" height="21" as="geometry" />
+        </mxCell>
+        <mxCell id="UDdRm1SqhOeg5-SXjAC0-21" value="&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Verdana&quot;&gt;MinDegree&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="433" y="262.75" width="80" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="UDdRm1SqhOeg5-SXjAC0-22" value="&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Verdana&quot;&gt;Description&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="433" y="302.75" width="80" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="UDdRm1SqhOeg5-SXjAC0-23" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Verdana&quot;&gt;TFQuestion&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="345" y="440" width="85" height="32.5" as="geometry" />
+        </mxCell>
+        <mxCell id="UDdRm1SqhOeg5-SXjAC0-24" value="&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Verdana&quot;&gt;&lt;u&gt;ID&lt;/u&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="440" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="UDdRm1SqhOeg5-SXjAC0-25" value="&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Verdana&quot;&gt;Degree&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="480" width="60" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="UDdRm1SqhOeg5-SXjAC0-26" value="&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Verdana&quot;&gt;CorrectAns&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="490" width="80" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="UDdRm1SqhOeg5-SXjAC0-28" value="&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Verdana&quot;&gt;Question&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="443.75" width="60" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="UDdRm1SqhOeg5-SXjAC0-34" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Verdana&quot;&gt;MCQuestion&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="585" y="442.5" width="85" height="32.5" as="geometry" />
+        </mxCell>
+        <mxCell id="UDdRm1SqhOeg5-SXjAC0-35" value="&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Verdana&quot;&gt;&lt;u&gt;ID&lt;/u&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="442.5" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="UDdRm1SqhOeg5-SXjAC0-36" value="&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Verdana&quot;&gt;Degree&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="482.5" width="60" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="UDdRm1SqhOeg5-SXjAC0-37" value="&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Verdana&quot;&gt;CorrectAns&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="482.5" width="80" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="UDdRm1SqhOeg5-SXjAC0-38" value="&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Verdana&quot;&gt;Question&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="440" width="60" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="UDdRm1SqhOeg5-SXjAC0-39" value="&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Verdana&quot;&gt;A&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="507.5" width="30" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="UDdRm1SqhOeg5-SXjAC0-40" value="&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Verdana&quot;&gt;B&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="612.5" y="507.5" width="30" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="UDdRm1SqhOeg5-SXjAC0-41" value="&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Verdana&quot;&gt;C&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="507.5" width="30" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="UDdRm1SqhOeg5-SXjAC0-42" value="&lt;font style=&quot;font-size: 14px;&quot; face=&quot;Verdana&quot;&gt;Class&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="625" y="65" width="80" height="32.5" as="geometry" />
+        </mxCell>
+        <mxCell id="UDdRm1SqhOeg5-SXjAC0-43" value="&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Verdana&quot;&gt;&lt;u&gt;ID&lt;/u&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="665" y="20" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="UDdRm1SqhOeg5-SXjAC0-45" value="&lt;font style=&quot;font-size: 12px;&quot; face=&quot;Verdana&quot;&gt;MaxDegree&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="60" width="80" height="25" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
